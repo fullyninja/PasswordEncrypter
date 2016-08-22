@@ -26,7 +26,7 @@ namespace PasswordEncrypter
             var secPassword = StringEncrypter.ToSecureString(password);
             string encryptedPassword = StringEncrypter.EncryptString(secPassword);
 
-            Console.WriteLine(encryptedPassword);
+            Console.Write(encryptedPassword);
         }
     }
 }
