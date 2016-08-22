@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+Reference
+Title: Encrypting Passwords in a .NET app.config File
+URL: http://weblogs.asp.net/jongalloway/encrypting-passwords-in-a-net-app-config-file
+Blog Author: Jon Galloway
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security;
