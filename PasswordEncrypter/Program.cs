@@ -10,6 +10,7 @@ namespace PasswordEncrypter
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
